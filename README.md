@@ -7,11 +7,9 @@ In addition to controlling polygons used and coloring, there is control over rot
 
 Some examples generated with this code:
 
-![Hex Swirl 1](images/hexSwirl28.png)
+![Hex Swirl 1](images/hexSwirl44.png)
 
-![Hex Swirl 2](images/hexSwirl44.png)
-
-![Hex Swirl 3](images/hexSwirl45.png)
+![Hex Swirl 2](images/hexSwirl45.png)
 
 ![Quad Swirl 1](images/quadSwirl29.png)
 
