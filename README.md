@@ -8,5 +8,3 @@ In addition to controlling polygons used and coloring, there is control over rot
 Some examples generated with this code:
 
 ![Collage 1](images/collage1.png)
-
-![Triangle Swirl 1](images/triSwirl12.png)
